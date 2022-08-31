@@ -1,0 +1,12 @@
+D:\Visual\Elementalss\Elementalss\bin\Debug\Elementalss.exe.config
+D:\Visual\Elementalss\Elementalss\bin\Debug\Elementalss.exe
+D:\Visual\Elementalss\Elementalss\bin\Debug\Elementalss.pdb
+D:\Visual\Elementalss\Elementalss\obj\Debug\Elementalss.csprojAssemblyReference.cache
+D:\Visual\Elementalss\Elementalss\obj\Debug\Elementalss.Form1.resources
+D:\Visual\Elementalss\Elementalss\obj\Debug\Elementalss.Properties.Resources.resources
+D:\Visual\Elementalss\Elementalss\obj\Debug\Elementalss.csproj.GenerateResource.cache
+D:\Visual\Elementalss\Elementalss\obj\Debug\Elementalss.exe
+D:\Visual\Elementalss\Elementalss\obj\Debug\Elementalss.pdb
+D:\Visual\Elementalss\Elementalss\obj\Debug\Elementalss.Form2.resources
+D:\Visual\Elementalss\Elementalss\obj\Debug\Elementalss.csproj.AssemblyReference.cache
+D:\Visual\Elementalss\Elementalss\obj\Debug\Elementalss.csproj.SuggestedBindingRedirects.cache
